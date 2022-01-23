@@ -342,7 +342,7 @@ function shareText(score) {
     }
     SubmitResults();
     if (score <= 49) return '老子真可爱诶嘿w';
-    if (score <= 99) return '不要再秒了！';
+    if (score <= 99) return '不要再喵了！';
     if (score <= 149) return '老婆mua~';
     if (score <= 199) return '迪迦啊啊啊啊啊！';
     return '人？';

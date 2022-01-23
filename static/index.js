@@ -341,10 +341,10 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 30).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '我要不聪明！';
-    if (score <= 99) return '不许叫主人！';
-    if (score <= 149) return '嘿嘿，可爱的姐姐……';
-    if (score <= 199) return '迫害！';
+    if (score <= 49) return '老子真可爱诶嘿w';
+    if (score <= 99) return '不要再秒了！';
+    if (score <= 149) return '老婆mua~';
+    if (score <= 199) return '迪迦啊啊啊啊啊！';
     return '人？';
 }
 
